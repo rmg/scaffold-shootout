@@ -16,5 +16,9 @@
   "Author": {
     "dataSource": null,
     "public": true
+  },
+  "Post": {
+    "dataSource": null,
+    "public": true
   }
 }
