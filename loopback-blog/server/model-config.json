@@ -20,5 +20,9 @@
   "Post": {
     "dataSource": null,
     "public": true
+  },
+  "Comment": {
+    "dataSource": null,
+    "public": true
   }
 }
