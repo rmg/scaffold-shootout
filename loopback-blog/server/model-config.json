@@ -12,5 +12,9 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "Author": {
+    "dataSource": null,
+    "public": true
   }
 }
