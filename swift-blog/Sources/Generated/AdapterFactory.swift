@@ -9,5 +9,8 @@ public class AdapterFactory {
         self.manager = manager
     }
 
+    public func getUserAdapter() throws -> UserAdapter {
+      return UserMemoryAdapter()
+    }
 
 }
