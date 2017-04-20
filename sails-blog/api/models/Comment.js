@@ -9,7 +9,9 @@ module.exports = {
 
   attributes: {
 
-    body : { type: 'text' }
+    body : { type: 'text' },
+    post : { model: 'Post' },
+    author : { model: 'User' },
   }
 };
 
