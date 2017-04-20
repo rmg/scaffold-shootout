@@ -1,0 +1,15 @@
+{
+  "name": "Comment",
+  "plural": "Comments",
+  "classname": "Comment",
+  "properties": {
+    "id": {
+      "type": "string",
+      "id": true
+    },
+    "body": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
