@@ -18,6 +18,11 @@
       "type": "belongsTo",
       "model": "Author",
       "foreignKey": ""
+    },
+    "post": {
+      "type": "belongsTo",
+      "model": "Post",
+      "foreignKey": ""
     }
   },
   "acls": [],
